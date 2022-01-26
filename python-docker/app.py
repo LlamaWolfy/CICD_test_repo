@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'The council does not grant me the rank of master!'
+    return 'The council does grant me the rank of master!'
